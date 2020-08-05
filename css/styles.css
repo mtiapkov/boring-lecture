@@ -1,14 +1,14 @@
-p.intro {
+.intro {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: large;
+}
+.outro {
   font-style: italic;
-  width: 50%
+  font-family: cursive;
+  font-size: small;
 }
 
-h2.intro {
-  font-style: italic;
-  width: 50%
-}
-
-img.intro {
-  font-style: italic;
-  width: 50%
+.red {
+  color: red;
+  font-style: bold;
 }
