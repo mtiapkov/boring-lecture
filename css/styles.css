@@ -1,7 +1,14 @@
-.important {
-  color; red;
+p.intro {
+  font-style: italic;
+  width: 50%
 }
 
-.unimportant {
-  color: blue;
+h2.intro {
+  font-style: italic;
+  width: 50%
+}
+
+img.intro {
+  font-style: italic;
+  width: 50%
 }
